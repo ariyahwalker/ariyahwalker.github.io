@@ -1,0 +1,37 @@
+---
+title: "Resume"
+---
+
+---
+title: "Resume"
+toc: false
+---
+
+[Download Resume (PDF)](assets/resume.pdf)
+
+---
+
+## Education
+
+**University of Virginia** — B.A., Applied Statistics and Biology  
+
+
+**J. Sargeant Reynolds Community College** — A.S., Biological Science  
+
+---
+
+## Experience
+
+**BioKind Analytics – Analyst**  
+University of Virginia Chapter  
+- Conducted data analysis on structured datasets to evaluate program performance  
+- Applied statistical methods to identify trends and generate insights  
+- Developed client-facing reports and presentations  
+
+---
+
+## Skills
+
+- **Programming:** R, Python, SQL
+- **Data Tools:** tidyverse, numpy, pandas, IDK might not need
+- **Methods:** Regression models, data visualization and management, applied linear algebra

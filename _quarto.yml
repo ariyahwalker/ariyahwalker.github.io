@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  open-graph: true
+  title: "Ariyah Walker"
+  site-url: https://awa1ker.io
+  repo-url: https://github.com/awa1ker/FlightNetworks.io
+  favicon: assets/images/uva.ico
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/projects.qmd
+        text: Projects
+      - href: pages/resume.qmd
+        text: Resume
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    mainfont: franklin-gothic, sans-serif
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true
