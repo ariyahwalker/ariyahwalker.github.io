@@ -25,7 +25,7 @@
     "href": "pages/resume.html#skills",
     "title": "Resume",
     "section": "Skills",
-    "text": "Skills\n\nProgramming: R, Python, SQL\nData Tools: tidyverse, numpy, pandas, IDK might not need\nMethods: Regression models, data visualization and management, applied linear algebra"
+    "text": "Skills\n\nProgramming: R, Python, SQL\nData Tools: tidyverse, numpy, pandas\nMethods: Regression models, data visualization and management, applied linear algebra"
   },
   {
     "objectID": "index.html",
@@ -91,11 +91,11 @@
     "text": "Network-Based SIR Disease Simulation\n\nUsed flight passenger data to construct an adjacency matrix representing movement between hub US airports\nDeveloped a SIR simulation to model infectious disease spread across a connected airport network"
   },
   {
-    "objectID": "pages/projects.html#air-quality-er-visits-virginia",
-    "href": "pages/projects.html#air-quality-er-visits-virginia",
+    "objectID": "pages/projects.html#air-quality-er-visits-virginiarespiratory-related-emergency-department-visits-1.pdf",
+    "href": "pages/projects.html#air-quality-er-visits-virginiarespiratory-related-emergency-department-visits-1.pdf",
     "title": "Projects",
-    "section": "Air Quality & ER Visits (Virginia)",
-    "text": "Air Quality & ER Visits (Virginia)\n\nAnalyzed the relationship between particulate matter exposure and respiratory-related emergency department visits across Virginia health districts\nCleaned, merged, and summarized public health and air quality datasets using R\nBuilt regression models and visualizations to examine trends and support interpretation of results"
+    "section": "Air Quality & ER Visits (Virginia)(Respiratory-Related Emergency Department Visits (1).pdf)",
+    "text": "Air Quality & ER Visits (Virginia)(Respiratory-Related Emergency Department Visits (1).pdf)\n\nAnalyzed the relationship between particulate matter exposure and respiratory-related emergency department visits across Virginia health districts\nCleaned, merged, and summarized public health and air quality datasets using R\nBuilt regression models and visualizations to examine trends and support interpretation of results"
   },
   {
     "objectID": "pages/projects.html#workforce-demand-vs-education-virginia",
