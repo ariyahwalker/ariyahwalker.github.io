@@ -88,7 +88,7 @@
     "href": "pages/projects.html#network-based-sir-disease-simulation",
     "title": "Projects",
     "section": "Network-Based SIR Disease Simulation",
-    "text": "Network-Based SIR Disease Simulation\n\nUsed flight passenger data to construct an adjacency matrix representing movement between hub US airports\nDeveloped a SIR simulation to model infectious disease spread across a connected airport network"
+    "text": "Network-Based SIR Disease Simulation\n\nDeveloped a network-based SIR epidemiological model in Python to simulate infectious disease transmission across the U.S. air transportation system.\nProcessed and analyzed Bureau of Transportation Statistics passenger data, constructing a directed network of 450+ airports and 6,800+ travel routes using NetworkX.\nBuilt a stochastic simulation framework incorporating probabilistic infection and recovery processes to model disease dynamics over time.\nApplied data cleaning, network analysis, and statistical modeling techniques to investigate population-level public health challenges."
   },
   {
     "objectID": "pages/projects.html#air-quality-er-visits-virginia",
